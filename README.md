@@ -1,7 +1,7 @@
 ## Hi I'm Madhushree 👋
 
 Data Scientist based in Singapore with an MSc in Data Science from SUTD. 
-I build end-to-end data pipelines, analytical tools, and machine learning 
+I build end-to-end data pipelines, analytical tools and machine learning 
 models with a focus on real-world, production-realistic design.
 
 Previously a Programmer Analyst at Cognizant, working on payment processing 
