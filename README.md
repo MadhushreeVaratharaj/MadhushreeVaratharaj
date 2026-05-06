@@ -29,6 +29,12 @@ data and production software discipline.
 
 ## 📂 Featured Projects
 
+### 📄 [FinSight — Financial Document Q&A](https://github.com/MadhushreeVaratharaj/finsight-rag)
+RAG-based application for querying financial documents using natural language.
+Upload any PDF — MAS circulars, annual reports, loan agreements — and ask questions.
+Returns cited answers with exact page numbers. Includes MLOps monitoring dashboard.  
+`Python` `LangChain` `FAISS` `Groq` `Streamlit` `Docker`
+
 ### 🏠 [Singapore HDB Resale Market Explorer](https://github.com/MadhushreeVaratharaj/hdb-resale-explorer)
 End-to-end analysis of 228,633 HDB resale transactions (2017–2026) using 
 official Singapore government data. Covers data cleaning, feature engineering, 
